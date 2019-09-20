@@ -1,0 +1,13 @@
+node_modules
+
+/*以及其他你想要忽略的文件或文件夹*/
+
+API/PHPExcel/*
+
+kind/*
+
+config/common.inc.php
+
+.idea/*
+
+order_IMG/*
